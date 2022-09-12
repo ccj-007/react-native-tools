@@ -10,10 +10,10 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@types/react-native-tab-navigator": "^0.3.5",
+    "deprecated-react-native-prop-types": "^2.3.0",
     "react": "18.1.0",
     "react-native": "0.70.0",
-    "react-native-tab-navigator": "^0.3.4"
+    "react-native-camera": "^4.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

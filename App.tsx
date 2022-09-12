@@ -18,7 +18,7 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import Home from "./components/Home";
+import Home from "./pages/Home";
 
 import {
   Colors,
